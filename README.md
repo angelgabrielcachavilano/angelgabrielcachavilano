@@ -81,7 +81,7 @@
         href="https://babeljs.io/"
         target="_blank">
         <img
-            src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg "
+            src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
             alt="babel" width="40" height="40"/>
     </a>
     <a
@@ -120,7 +120,7 @@
         href="https://www.docker.com/"
         target="_blank">
         <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg " alt="docker" width="40" height="40"/>
+            src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/>
     </a>
     <a
         href="https://www.electronjs.org"
@@ -133,7 +133,7 @@
         href="https://expressjs.com"
         target="_blank">
         <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg " alt="express" width="40" height="40"/>
+            src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
     </a>
     <a
         href="https://www.figma.com/"
@@ -251,7 +251,7 @@
         href="https://www.linux.org/"
         target="_blank">
         <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/linux /linux-original.svg"
+            src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"
             alt="linux" width="40" height="40"/>
     </a>
     <a
@@ -293,7 +293,7 @@
         href="https://nodejs.org"
         target="_blank">
         <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg "
+            src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg"
             alt="nodejs" width="40" height="40"/>
     </a>
     <a
