@@ -418,6 +418,7 @@
             src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg"
             alt="tailwind" width="40" height="40"/>
     </a>
+<!--
     <a
         href="https://www.tensorflow.org"
         target="_blank">
@@ -460,6 +461,7 @@
             src="https://devicons.github.io/devicon/devicon.git/icons/webpack/webpack-original.svg"
             alt="webpack" width="40" height="40"/>
     </a>
+-->
 </p>
 
 <p>
