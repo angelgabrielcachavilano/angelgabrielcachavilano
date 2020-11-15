@@ -168,7 +168,7 @@
         target="_blank">
         <img
             src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
-            alt="git" ancho="40" altura="40"/>
+            alt="git"  width="40" height="40"/>
     </a>
     <a
         href="https://golang.org"
