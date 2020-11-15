@@ -437,7 +437,7 @@
 </p>
 
 <p>
-    <img align="left"
+    <img align="left" width="100%"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&show_icons=true&locale=en&layout=compact"
     alt="angelgabrielcachavilano"/>
 </p>
