@@ -436,15 +436,16 @@
     </a>
 </p>
 
-<p>
-    <img align="left"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&show_icons=true&locale=en&layout=compact"
-    alt="angelgabrielcachavilano"/>
-</p>
-
-<p>
-    &nbsp;
-    <img align="right"
-    src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&show_icons=true&locale=en"
-    alt="angelgabrielcachavilano"/>
-</p>
+<div>
+    <p>
+        <img align="left"
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&show_icons=true&locale=en&layout=compact"
+        alt="angelgabrielcachavilano"/>
+    </p>
+    <p>
+        &nbsp;
+        <img align="right"
+        src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&show_icons=true&locale=en"
+        alt="angelgabrielcachavilano"/>
+    </p>
+</div>
