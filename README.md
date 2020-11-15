@@ -444,7 +444,7 @@
 
 <p>
     &nbsp;
-    <img align="center"
+    <img align="right"
     src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&show_icons=true&locale=en"
     alt="angelgabrielcachavilano"/>
 </p>
