@@ -1,19 +1,23 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
 <!-- desactivacion del lintMD con las lineas superiores -->
-<h1 align="center"> Hola 👋, soy Angel Gabriel Cachavilano </h1>
-<h3 align="center"> Un apasionado desarrollador de frontend de Argentina </h3>
+
+<h1 align="center"> Hi 👋, I'm Angel Gabriel Cachavilano </h1>
+---
+
+<h3 align="center">React Developer</h3>
+---
 
 <p align = "left"> <a href="https://twitter.com/gcachavilano" target="_blank"> <img src="https://img.shields.io/twitter/follow/gcachavilano?logo=twitter&style=for-the-badge" alt="gcachavilano" /> </a> </p>
 
-- 🌱 Actualmente estoy aprendiendo **React.js y Node.js**.
+- 🌱 I am currently learning **React.js and Node.js**.
 
-### Publicaciones de blogs
+<!-- ### Blog posts -->
 
 <!-- BLOG-POST-LIST: START -->
 <!-- BLOG-POST-LIST: END -->
 
-<h3 align="left"> Conéctate conmigo: </h3>
+<h3 align="left"> Connect with me: </h3>
 <p align="left">
     <a
         href="https://codepen.io/https://codepen.io/angelgabrielcachavilano"
@@ -56,7 +60,7 @@
     </a>
 </p>
 
-<h3 align="left">Idiomas y herramientas:</h3>
+<h3 align="left">Languages ​​and tools:</h3>
 <p align="left">
 <!--    
     <a
