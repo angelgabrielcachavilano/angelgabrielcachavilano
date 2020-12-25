@@ -18,8 +18,8 @@
 <!-- BLOG-POST-LIST: END -->
 
 <h3 align="left"> Connect with me: </h3>
----
 
+---
 <p align="left">
     <a
         href="https://codepen.io/https://codepen.io/angelgabrielcachavilano"
@@ -63,8 +63,8 @@
 </p>
 
 <h3 align="left">Languages ​​and tools:</h3>
----
 
+---
 <p align="left">
 <!--    
     <a
