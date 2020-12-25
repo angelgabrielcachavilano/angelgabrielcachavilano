@@ -17,8 +17,9 @@
 <!-- BLOG-POST-LIST: START -->
 <!-- BLOG-POST-LIST: END -->
 
----
 <h3 align="left"> Connect with me: </h3>
+---
+
 <p align="left">
     <a
         href="https://codepen.io/https://codepen.io/angelgabrielcachavilano"
@@ -61,10 +62,10 @@
     </a>
 </p>
 
----
 <h3 align="left">Languages ​​and tools:</h3>
-<p align="left">
+---
 
+<p align="left">
 <!--    
     <a
         href="https://developer.android.com"
