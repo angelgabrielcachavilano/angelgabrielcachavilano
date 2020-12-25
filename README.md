@@ -17,6 +17,7 @@
 <!-- BLOG-POST-LIST: START -->
 <!-- BLOG-POST-LIST: END -->
 
+---
 <h3 align="left"> Connect with me: </h3>
 <p align="left">
     <a
@@ -60,8 +61,10 @@
     </a>
 </p>
 
+---
 <h3 align="left">Languages ​​and tools:</h3>
 <p align="left">
+
 <!--    
     <a
         href="https://developer.android.com"
@@ -469,14 +472,14 @@
 </p>
 
 <p>
-    <img align="left" width="100%" height="250px"
+    <img align="left" width="100%" height="250px" padding="0%"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&show_icons=true&locale=en&layout=compact"
     alt="angelgabrielcachavilano"/>
 </p>
 
 <p>
     &nbsp;
-    <img align="left" width="100%" height="250px"
+    <img align="left" width="100%" height="250px" padding="0%"
     src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&show_icons=true&locale=en"
     alt="angelgabrielcachavilano"/>
 </p>
