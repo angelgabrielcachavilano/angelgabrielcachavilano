@@ -3,11 +3,11 @@
 <!-- desactivacion del lintMD con las lineas superiores -->
 
 <h1 align="center"> Hi 👋, I'm Angel Gabriel Cachavilano </h1>
----
 
-<h3 align="center">React Developer</h3>
 ---
+<h3 align="left">React Developer</h3>
 
+---
 <p align = "left"> <a href="https://twitter.com/gcachavilano" target="_blank"> <img src="https://img.shields.io/twitter/follow/gcachavilano?logo=twitter&style=for-the-badge" alt="gcachavilano" /> </a> </p>
 
 - 🌱 I am currently learning **React.js and Node.js**.
