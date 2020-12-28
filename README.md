@@ -1,6 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
 <!-- desactivacion del lintMD con las lineas superiores -->
+![Banner](https://github.com/angelgabrielcachavilano/angelgabrielcachavilano/banner-gabriel-cachavilano.jpg)
 
 <h1 align="center"> Hi 👋, I'm Angel Gabriel Cachavilano </h1>
 
@@ -95,6 +96,7 @@
             src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
             alt="babel" width="40" height="40"/>
     </a>
+<!--
     <a
         href="https://www.gnu.org/software/bash/"
         target="_blank">
@@ -102,6 +104,7 @@
             src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"
             alt="bash" width="40" height="40"/>
     </a>
+-->
     <a
         href="https://getbootstrap.com"
         target="_blank">
@@ -159,7 +162,7 @@
 -->
     <a
         href="https://firebase.google.com/"
-        target="_ blank">
+        target="_blank">
         <img
             src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg"
             alt="firebase" width="40" altura="40"/>
@@ -288,7 +291,7 @@
 -->
     <a
         href="https://materializecss.com/"
-        target="_ blank">
+        target="_blank">
         <img
             src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg"
             alt="materialize" width="40" height="40"/>
@@ -471,15 +474,16 @@
 -->
 </p>
 
+---
 <p>
-    <img align="left" width="100%" height="250px" padding="0%"
+    <img align="center" width="100%" height="250px" padding="0%"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&show_icons=true&locale=en&layout=compact"
     alt="angelgabrielcachavilano"/>
 </p>
 
 <p>
     &nbsp;
-    <img align="left" width="100%" height="250px" padding="0%"
+    <img align="center" width="100%" height="250px" padding="0%"
     src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&show_icons=true&locale=en"
     alt="angelgabrielcachavilano"/>
 </p>
