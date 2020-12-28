@@ -1,7 +1,7 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
 <!-- desactivacion del lintMD con las lineas superiores -->
-![Banner](https://github.com/angelgabrielcachavilano/angelgabrielcachavilano/banner-gabriel-cachavilano.jpg)
+![Banner](https://github.com/angelgabrielcachavilano/angelgabrielcachavilano/blob/master/banner-gabriel-cachavilano.jpg)
 
 <h1 align="center"> Hi 👋, I'm Angel Gabriel Cachavilano </h1>
 
