@@ -1,7 +1,13 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
 <!-- desactivacion del lintMD con las lineas superiores -->
+<!-- banner -->
 ![Banner](https://github.com/angelgabrielcachavilano/angelgabrielcachavilano/blob/master/banner-gabriel-cachavilano.jpg)
+
+<!-- retro visitor counter -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/angelgabrielcachavilano/count.svg" />
+</p>
 
 <h1 align="center"> Hi 👋, I'm Angel Gabriel Cachavilano </h1>
 
