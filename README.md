@@ -9,7 +9,10 @@
   <img src="https://profile-counter.glitch.me/angelgabrielcachavilano/count.svg" />
 </p>
 
-<h1 align="center"> Hi 👋, I'm Angel Gabriel Cachavilano </h1>
+<!-- welcome message -->
+<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Angel Gabriel Cachavilano</h2>
+
+<h3>Glad to see you here!</h3>
 
 <h3 align="left">React Developer</h3>
 
