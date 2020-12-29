@@ -484,18 +484,19 @@
 
 ---
 <p>
-    <img align="left" width="49%" height="100%"
+    <img align="left" width="100%" height="100%"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&show_icons=true&locale=en&layout=compact"
     alt="angelgabrielcachavilano"/>
 </p>
 
 <p>
-    <img align="right" width="49%" height="100%"
+    <img align="right" width="100%" height="100%"
     src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&show_icons=true&locale=en"
     alt="angelgabrielcachavilano"/>
 </p>
 
 ---
+
 <h3 align="left">Blog posts</h3>
 <!-- BLOG-POST-LIST:START -->
 - [Road to Senior](https://dev.to/gcachavilano/road-to-senior-13cp)
