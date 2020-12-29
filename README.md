@@ -11,12 +11,11 @@
     </p>
 -->
 <!-- welcome message -->
-<h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Angel Gabriel Cachavilano</h2>
+<h2  align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Angel Gabriel Cachavilano</h2>
 
-<h3 align="left">React Developer</h3>
+<h3 align="center">React Developer &nbsp</h3>
 
 ---
-<p align="left"> <a href="https://twitter.com/gcachavilano" target="_blank"> <img src="https://img.shields.io/twitter/follow/gcachavilano?logo=twitter&style=for-the-badge" alt="gcachavilano" /> </a> </p>
 
 - I am currently learning **React.js and Node.js**.
 
@@ -24,6 +23,7 @@
 <h3 align="left"> Connect with me: </h3>
 
 ---
+<p align="left"> <a href="https://twitter.com/gcachavilano" target="_blank"> <img src="https://img.shields.io/twitter/follow/gcachavilano?logo=twitter&style=for-the-badge" alt="gcachavilano" /> </a> </p>
 <p align="left">
     <a
         href="https://codepen.io/https://codepen.io/angelgabrielcachavilano"
@@ -480,7 +480,7 @@
 
 ---
 <!-- GitHub stats -->
-<h3 align="left">My Dev Statistics</h3>
+<h3 align="left">My Dev Statistics:</h3>
 <p>
     <img align="left" width="100%" height="275px"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&show_icons=true&locale=en&layout=compact"
@@ -494,7 +494,7 @@
 </p>
 
 ---
-<h3 align="left">Blog posts</h3>
+<h3 align="left">Blog posts:</h3>
 <!-- BLOG-POST-LIST:START -->
 - [Road to Senior](https://dev.to/gcachavilano/road-to-senior-13cp)
 <!-- BLOG-POST-LIST:END -->
