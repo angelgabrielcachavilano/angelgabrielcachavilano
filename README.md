@@ -5,14 +5,13 @@
 ![Banner](https://github.com/angelgabrielcachavilano/angelgabrielcachavilano/blob/master/banner-gabriel-cachavilano.jpg)
 
 <!-- retro visitor counter -->
-<p align="center">
-  <img src="https://profile-counter.glitch.me/angelgabrielcachavilano/count.svg" />
-</p>
-
+<!--
+    <p align="center">
+    <img src="https://profile-counter.glitch.me/angelgabrielcachavilano/count.svg" />
+    </p>
+-->
 <!-- welcome message -->
 <h2>Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Angel Gabriel Cachavilano</h2>
-
-<h3>Glad to see you here!</h3>
 
 <h3 align="left">React Developer</h3>
 
@@ -485,14 +484,14 @@
 
 ---
 <p>
-    <img align="left" width="50%" height="250px" padding="0%"
+    <img align="left" width="50%" height="100%" padding="0%"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&show_icons=true&locale=en&layout=compact"
     alt="angelgabrielcachavilano"/>
 </p>
 
 <p>
     &nbsp;
-    <img align="right" width="48%" height="275px" padding="0%"
+    <img align="right" width="49%" height="100%" padding="0%"
     src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&show_icons=true&locale=en"
     alt="angelgabrielcachavilano"/>
 </p>
