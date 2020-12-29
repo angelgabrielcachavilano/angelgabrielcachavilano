@@ -23,7 +23,9 @@
 <h3 align="left"> Connect with me: </h3>
 
 ---
-<p align="left"> <a href="https://twitter.com/gcachavilano" target="_blank"> <img src="https://img.shields.io/twitter/follow/gcachavilano?logo=twitter&style=for-the-badge" alt="gcachavilano" /> </a> </p>
+<!--
+    <p align="left"> <a href="https://twitter.com/gcachavilano" target="_blank"> <img src="https://img.shields.io/twitter/follow/gcachavilano?logo=twitter&style=for-the-badge" alt="gcachavilano" /> </a> </p>
+-->
 <p align="left">
     <a
         href="https://codepen.io/https://codepen.io/angelgabrielcachavilano"
