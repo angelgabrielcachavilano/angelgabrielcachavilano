@@ -479,6 +479,8 @@
 </p>
 
 ---
+<!-- GitHub stats -->
+<h3 align="left">My Dev Statistics</h3>
 <p>
     <img align="left" width="100%" height="275px"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&show_icons=true&locale=en&layout=compact"
