@@ -494,3 +494,7 @@
     src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&show_icons=true&locale=en"
     alt="angelgabrielcachavilano"/>
 </p>
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
