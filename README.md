@@ -494,9 +494,9 @@
     src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&show_icons=true&locale=en"
     alt="angelgabrielcachavilano"/>
 </p>
----
 
-# Blog posts
+---
+<h3 align="left">Blog posts</h3>
 <!-- BLOG-POST-LIST:START -->
 - [Road to Senior](https://dev.to/gcachavilano/road-to-senior-13cp)
 <!-- BLOG-POST-LIST:END -->
