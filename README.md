@@ -18,13 +18,9 @@
 ---
 <p align="left"> <a href="https://twitter.com/gcachavilano" target="_blank"> <img src="https://img.shields.io/twitter/follow/gcachavilano?logo=twitter&style=for-the-badge" alt="gcachavilano" /> </a> </p>
 
-- 🌱 I am currently learning **React.js and Node.js**.
+- I am currently learning **React.js and Node.js**.
 
-<!-- ### Blog posts -->
-
-<!-- BLOG-POST-LIST: START -->
-<!-- BLOG-POST-LIST: END -->
-
+---
 <h3 align="left"> Connect with me: </h3>
 
 ---
@@ -484,19 +480,18 @@
 
 ---
 <p>
-    <img align="left" width="100%" height="100%"
+    <img align="left" width="100%" height="275px"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&show_icons=true&locale=en&layout=compact"
     alt="angelgabrielcachavilano"/>
 </p>
 
 <p>
-    <img align="right" width="100%" height="100%"
+    <img align="right" width="100%" height="275px"
     src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&show_icons=true&locale=en"
-    alt="angelgabrielcachavilano"/>
+    alt="angelgabrielcachavilano"/> &nbsp
 </p>
 
 ---
-
 <h3 align="left">Blog posts</h3>
 <!-- BLOG-POST-LIST:START -->
 - [Road to Senior](https://dev.to/gcachavilano/road-to-senior-13cp)
