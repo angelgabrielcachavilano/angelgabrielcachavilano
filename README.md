@@ -501,6 +501,7 @@
 - [Road to Senior](https://dev.to/gcachavilano/road-to-senior-13cp)
 <!-- BLOG-POST-LIST:END -->
 
+---
 <h3 align="left">My followers</h3>
 <!--START_SECTION:top-followers-->
 <!--END_SECTION:top-followers-->
