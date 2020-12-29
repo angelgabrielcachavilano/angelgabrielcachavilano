@@ -497,4 +497,5 @@
 
 # Blog posts
 <!-- BLOG-POST-LIST:START -->
+- [Road to Senior](https://dev.to/gcachavilano/road-to-senior-13cp)
 <!-- BLOG-POST-LIST:END -->
