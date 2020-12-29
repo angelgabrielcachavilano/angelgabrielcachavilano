@@ -485,14 +485,14 @@
 
 ---
 <p>
-    <img align="center" width="100%" height="250px" padding="0%"
+    <img align="left" width="50%" height="250px" padding="0%"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&show_icons=true&locale=en&layout=compact"
     alt="angelgabrielcachavilano"/>
 </p>
 
 <p>
     &nbsp;
-    <img align="center" width="100%" height="250px" padding="0%"
+    <img align="right" width="48%" height="275px" padding="0%"
     src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&show_icons=true&locale=en"
     alt="angelgabrielcachavilano"/>
 </p>
