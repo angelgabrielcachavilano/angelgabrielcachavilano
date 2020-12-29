@@ -504,4 +504,43 @@
 ---
 <h3 align="left">My followers</h3>
 <!--START_SECTION:top-followers-->
+<table>
+  <tr>
+    <td align="center">
+      <a href="https://github.com/HiroNakamura">
+        <img src="https://avatars2.githubusercontent.com/u/1437293" width="100px;" alt="HiroNakamura"/>
+      </a>
+      <br />
+      <a href="https://github.com/HiroNakamura">ARIEL</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/Roodaka">
+        <img src="https://avatars2.githubusercontent.com/u/590068" width="100px;" alt="Roodaka"/>
+      </a>
+      <br />
+      <a href="https://github.com/Roodaka">Cody Roodaka</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/MatiasRoyRodriguez">
+        <img src="https://avatars2.githubusercontent.com/u/54755925" width="100px;" alt="MatiasRoyRodriguez"/>
+      </a>
+      <br />
+      <a href="https://github.com/MatiasRoyRodriguez">Matías Roy Rodriguez</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/JeremiasCaballero">
+        <img src="https://avatars2.githubusercontent.com/u/54777181" width="100px;" alt="JeremiasCaballero"/>
+      </a>
+      <br />
+      <a href="https://github.com/JeremiasCaballero">Jeremias Caballero</a>
+    </td>
+    <td align="center">
+      <a href="https://github.com/EnzoFortunato">
+        <img src="https://avatars2.githubusercontent.com/u/55504503" width="100px;" alt="EnzoFortunato"/>
+      </a>
+      <br />
+      <a href="https://github.com/EnzoFortunato">Enzo Fortunato</a>
+    </td>
+  </tr>
+</table>
 <!--END_SECTION:top-followers-->
