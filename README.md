@@ -1,5 +1,6 @@
 <!-- markdownlint-disable MD033 -->
 <!-- markdownlint-disable MD041 -->
+
 <!-- desactivacion del lintMD con las lineas superiores -->
 <!-- banner -->
 ![Banner](https://github.com/angelgabrielcachavilano/angelgabrielcachavilano/blob/master/banner-gabriel-cachavilano.jpg)
@@ -11,7 +12,7 @@
     </p>
 -->
 <!-- welcome message -->
-<h2  align="center">Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> , I'm Angel Gabriel Cachavilano</h2>
+<h2  align="center">Hi there <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> --> , I'm Angel Gabriel Cachavilano</h2>
 
 <h3 align="center">React Developer &nbsp</h3>
 
@@ -96,8 +97,7 @@
     </a>
 -->
     <a
-        href="https://babeljs.io/"
-        target="_blank">
+        href="https://babeljs.io/" target="_blank">
         <img
             src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg"
             alt="babel" width="40" height="40"/>
