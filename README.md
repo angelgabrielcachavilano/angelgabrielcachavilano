@@ -483,13 +483,13 @@
 <h3 align="left">My Dev Statistics:</h3>
 <p>
     <img align="left" width="100%" height="275px"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&hide=contribs&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&show_icons=true&locale=en&layout=compact"
     alt="angelgabrielcachavilano"/>
 </p>
 
 <p>
     <img align="right" width="100%" height="275px"
-    src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&show_icons=true&locale=en"
+    src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&hide=contribs&show_icons=true&locale=en"
     alt="angelgabrielcachavilano"/> &nbsp
 </p>
 
