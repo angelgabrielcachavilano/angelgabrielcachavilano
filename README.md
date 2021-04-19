@@ -487,11 +487,7 @@
     alt="angelgabrielcachavilano"/>
 </p>
 
-<p>
-    <img align="right" width="100%" height="275px"
-    src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&hide=contribs&show_icons=true&locale=en"
-    alt="angelgabrielcachavilano"/> &nbsp
-</p>
+! [Estadísticas de GitHub de Anurag] (https://github-readme-stats.vercel.app/api? username = angelgabrielcachavilano & hide=contribs)
 
 ---
 <h3 align="left">Blog posts:</h3>
