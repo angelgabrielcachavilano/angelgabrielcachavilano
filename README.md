@@ -2,6 +2,7 @@
 <!-- markdownlint-disable MD041 -->
 
 <!-- desactivacion del lintMD con las lineas superiores -->
+
 <!-- banner -->
 ![Banner](https://github.com/angelgabrielcachavilano/angelgabrielcachavilano/blob/master/banner-gabriel-cachavilano.jpg)
 
@@ -83,9 +84,23 @@
     </a>
 -->
     <a
+        href="https://www.w3.org/html/"
+        target="_blank">
+        <img
+            src="assets/iconhtml5.png"
+            alt="html5" width="40" height="40"/>
+    </a>
+    <!-- CSS -->
+    <a
+        href="https://www.w3schools.com/css/"
+        target="_blank">
+        <img
+            src="assets/iconcss.png" alt="css3" width="40" height="40"/>
+    </a>
+    <a
         href="https://angular.io" target="_blank">
         <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg"
+            src="assets\iconangularjs.png"
             alt="angularjs" width="40" height="40"/>
     </a>
 <!--    
@@ -115,7 +130,7 @@
         href="https://getbootstrap.com"
         target="_blank">
         <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+            src="assets\iconbootstrap.svg" alt="bootstrap" width="40" height="40"/>
     </a>
 <!--
     <a
@@ -124,14 +139,6 @@
             src="https://cdn.worldvectorlogo.com/logos/codeigniter.svg"
             alt="codeigniter" width="40" height="40"/>
     </a>
--->
-    <a
-        href="https://www.w3schools.com/css/"
-        target="_blank">
-        <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-<!--
     <a
         href="https://www.djangoproject.com/"
         target="_blank">
@@ -193,7 +200,7 @@
         href="https://git-scm.com/"
         target="_blank">
         <img
-            src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"
+            src="assets\icongit.svg"
             alt="git"  width="40" height="40"/>
     </a>
 <!--
@@ -218,15 +225,6 @@
             src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg"
             alt="heroku" width="40" height="40"/>
     </a>
--->
-    <a
-        href="https://www.w3.org/html/"
-        target="_blank">
-        <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/html5/html5-original-wordmark.svg"
-            alt="html5" width="40" height="40"/>
-    </a>
-<!--
     <a
         href="https://ionicframework.com"
         target="_blank">
@@ -239,7 +237,7 @@
         href="https://www.java.com"
         target="_blank">
         <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg"
+            src="assets\iconjava.png"
             alt="java" width="40" height="40"/>
     </a>
     <a
@@ -485,7 +483,7 @@
 <h3 align="left">My Dev Statistics:</h3>
 <p>
     <img align="left" width="100%" height="275px"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&show_icons=true&locale=en&layout=compact"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&hide=contribs&show_icons=true&locale=en&layout=compact"
     alt="angelgabrielcachavilano"/>
 </p>
 
