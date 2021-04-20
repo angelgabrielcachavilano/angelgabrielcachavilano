@@ -490,7 +490,8 @@
 ---
 <!-- GitHub stats -->
 <h3 align="left">My Dev Statistics:</h3>
-<a>
+<div width="100%">
+    <a>
     <img align="center"
     src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&theme=react&show_icons=true&locale=en&layout=compact&langs_count=10&card_width=240"
     alt="angelgabrielcachavilano"/>
@@ -501,6 +502,7 @@
     src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&hide=contribs&theme=react&show_icons=true&locale=en&line_height=29"
     alt="angelgabrielcachavilano"/> &nbsp
 </a>
+</div>
 
 ---
 <h3 align="left" width="100%">Blog posts:</h3>
