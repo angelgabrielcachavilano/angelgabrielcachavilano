@@ -22,17 +22,36 @@
 * <h4  style="color:#57bdda"> I am currently learning  <strong>React.js</strong> and  <strong>Node.js.</strong></h4>
 
 ---
-<h3 align="left" style="color:#57bdda"> Connect with me: </h3>  
-  
+<h3 align="left" style="color:#57bdda"> Connect with me:</h3>  
 <!--
     <p align="left"> <a href="https://twitter.com/gcachavilano" target="_blank"> <img src="https://img.shields.io/twitter/follow/gcachavilano?logo=twitter&style=for-the-badge" alt="gcachavilano" /> </a> </p>
 -->
 <p>
     <a
+        href="https://linkedin.com/in/https://www.linkedin.com/in/angelgabrielcachavilano/" target="_blank">
+        <img align="center"
+        src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"
+        alt="https://www.linkedin.com/in/angelgabrielcachavilano/" height="40" width="40"/>
+    </a>
+    <a
         href="https://discord.gg/QDW3cYPp"
         target="_blank">
         <img align="center"
             src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord" height="40" width="40"/>
+    </a>
+    <a
+        href="https://twitter.com/gcachavilano"
+        target="_blank">
+        <img align="center"
+            src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="gcachavilano" height="40" width="40"/>
+    </a>
+    <a
+        href="https://www.youtube.com/c/https://youtube.com/channel/uc7uj1phnv3_acfc_dcneqna"
+        target="_blank">
+        <img align="center"
+            src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg"
+            alt="https://youtube.com/channel/uc7uj1phnv3_acfc_dcneqna"
+            height="40" width="40"/>
     </a>
     <a
         href="https://codepen.io/https://codepen.io/angelgabrielcachavilano"
@@ -47,18 +66,6 @@
             src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg"
             alt="https://dev.to/gcachavilano" height="40" width="40"/>
     </a>
-    <a
-        href="https://twitter.com/gcachavilano"
-        target="_blank">
-        <img align="center"
-            src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="gcachavilano" height="40" width="40"/>
-    </a>
-    <a
-        href="https://linkedin.com/in/https://www.linkedin.com/in/angelgabrielcachavilano/" target="_blank">
-        <img align="center"
-        src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"
-        alt="https://www.linkedin.com/in/angelgabrielcachavilano/" height="40" width="40"/>
-    </a>
 <!--
     <a
         href="https://medium.com/@gabrielcachavilano"
@@ -67,14 +74,6 @@
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gabrielcachavilano" height="30" width="40"/>
     </a>
 -->
-    <a
-        href="https://www.youtube.com/c/https://youtube.com/channel/uc7uj1phnv3_acfc_dcneqna"
-        target="_blank">
-        <img align="center"
-            src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg"
-            alt="https://youtube.com/channel/uc7uj1phnv3_acfc_dcneqna"
-            height="40" width="40"/>
-    </a>
 </p>
 
 ---
