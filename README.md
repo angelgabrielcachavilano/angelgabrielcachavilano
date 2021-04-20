@@ -492,7 +492,7 @@
 <h3 align="left">My Dev Statistics:</h3>
 <a>
     <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&theme=react&show_icons=true&locale=en&layout=compact&langs_count=10"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&theme=react&show_icons=true&locale=en&layout=compact&langs_count=10&card_width=240"
     alt="angelgabrielcachavilano"/>
 </a>
 
