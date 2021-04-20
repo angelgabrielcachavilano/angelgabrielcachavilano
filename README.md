@@ -15,61 +15,69 @@
 <!-- welcome message -->
 <h2  align="center">Hi there <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> --> , I'm Angel Gabriel Cachavilano</h2>
 
-<h3 align="center">React Developer &nbsp</h3>
+<h3 align="center">React Developer</h3>
 
 ---
 
-- I am currently learning **React.js and Node.js**.
+<h4> I am currently learning  <strong>React.js</strong> and  <strong>Node.js.</strong></h4>
 
 ---
-<h3 align="left"> Connect with me: </h3>
-
----
+<h3 align="left"> Connect with me: </h3>  
+  
 <!--
     <p align="left"> <a href="https://twitter.com/gcachavilano" target="_blank"> <img src="https://img.shields.io/twitter/follow/gcachavilano?logo=twitter&style=for-the-badge" alt="gcachavilano" /> </a> </p>
 -->
-<p align="left">
+<p>
+    <a
+        href="https://discord.gg/QDW3cYPp"
+        target="_blank">
+        <img align="center"
+            src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord" height="40" width="40"/>
+    </a>
     <a
         href="https://codepen.io/https://codepen.io/angelgabrielcachavilano"
         target="_blank">
-        <img align ="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/codepen.svg" alt="https://codepen.io/angelgabrielcachavilano" height="30" width="40"/>
+        <img align="center"
+            src="https://www.vectorlogo.zone/logos/codepen/codepen-tile.svg" alt="https://codepen.io/angelgabrielcachavilano" height="40" width="40"/>
     </a>
     <a
         href="https://dev.to/https://dev.to/gcachavilano"
         target="_blank">
         <img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg"
-            alt="https://dev.to/gcachavilano" height="30" width="40"/>
+            src="https://www.vectorlogo.zone/logos/devto/devto-icon.svg"
+            alt="https://dev.to/gcachavilano" height="40" width="40"/>
     </a>
     <a
         href="https://twitter.com/gcachavilano"
         target="_blank">
         <img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="gcachavilano" height="30" width="40"/>
+            src="https://www.vectorlogo.zone/logos/twitter/twitter-tile.svg" alt="gcachavilano" height="40" width="40"/>
     </a>
     <a
         href="https://linkedin.com/in/https://www.linkedin.com/in/angelgabrielcachavilano/" target="_blank">
         <img align="center"
-        src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg"
-        alt="https://www.linkedin.com/in/angelgabrielcachavilano/" height="30" width="40"/>
+        src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg"
+        alt="https://www.linkedin.com/in/angelgabrielcachavilano/" height="40" width="40"/>
     </a>
+<!--
     <a
         href="https://medium.com/@gabrielcachavilano"
         target="_blank">
         <img align="center"
             src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@gabrielcachavilano" height="30" width="40"/>
     </a>
+-->
     <a
         href="https://www.youtube.com/c/https://youtube.com/channel/uc7uj1phnv3_acfc_dcneqna"
         target="_blank">
         <img align="center"
-            src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg"
+            src="https://www.vectorlogo.zone/logos/youtube/youtube-tile.svg"
             alt="https://youtube.com/channel/uc7uj1phnv3_acfc_dcneqna"
-            height="30" width="40"/>
+            height="40" width="40"/>
     </a>
 </p>
 
+---
 <h3 align="left">Languages ​​and tools:</h3>
 
 ---
@@ -96,6 +104,14 @@
         target="_blank">
         <img
             src="assets/iconcss.png" alt="css3" width="40" height="40"/>
+    </a>
+    <!-- JS -->
+    <a
+        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
+        target="_blank">
+        <img
+            src="assets\iconjs.png"
+            alt="javascript" width="40" height="40"/>
     </a>
     <a
         href="https://angular.io" target="_blank">
@@ -240,13 +256,6 @@
             src="assets\iconjava.png"
             alt="java" width="40" height="40"/>
     </a>
-    <a
-        href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"
-        target="_blank">
-        <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg"
-            alt="javascript" width="40" height="40"/>
-    </a>
 <!--
     <a
         href="https://www.jenkins.io"
@@ -281,7 +290,7 @@
         href="https://www.linux.org/"
         target="_blank">
         <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/linux/linux-original.svg"
+            src="assets\iconlinux.svg"
             alt="linux" width="40" height="40"/>
     </a>
 <!--
@@ -304,7 +313,7 @@
         href="https://www.mysql.com/"
         target="_blank">
         <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg"
+            src="assets\iconmysql.svg"
             alt="mysql" width="40" height="40"/>
     </a>
 <!--
@@ -341,7 +350,7 @@
         href="https://www.php.net"
         target="_blank">
         <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/php/php-original.svg"
+            src="assets\iconphp.svg"
             alt="php" width="40" height="40"/>
     </a>
 <!--
@@ -363,14 +372,14 @@
     <a
         href="https://www.python.org" target="_blank">
         <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg"
+            src="assets\iconpython.png"
             alt="python" width="40" height="40"/>
     </a>
     <a
         href="https://reactjs.org/"
         target="_blank">
         <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg"
+            src="assets\iconreactjs.svg"
             alt="react" width="40" height="40"/>
     </a>
 <!--
@@ -399,7 +408,7 @@
         href="https://sass-lang.com"
         target="_blank">
         <img
-            src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg"
+            src="assets\iconsass.png"
             alt="sass" width="40" height="40"/>
     </a>
 <!--
@@ -481,20 +490,20 @@
 ---
 <!-- GitHub stats -->
 <h3 align="left">My Dev Statistics:</h3>
-<p>
-    <img align="left" width="100%" height="275px"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&show_icons=true&locale=en&layout=compact"
+<a>
+    <img align="center"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&theme=react&show_icons=true&locale=en&layout=compact&langs_count=10"
     alt="angelgabrielcachavilano"/>
-</p>
+</a>
 
-<p>
-    <img align="right" width="100%" height="275px"
-    src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&show_icons=true&locale=en"
+<a>
+    <img align="center"
+    src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&hide=contribs&theme=react&show_icons=true&locale=en&line_height=29"
     alt="angelgabrielcachavilano"/> &nbsp
-</p>
+</a>
 
 ---
-<h3 align="left">Blog posts:</h3>
+<h3 align="left" width="100%">Blog posts:</h3>
 <!-- BLOG-POST-LIST:START -->
 - [Road to Senior](https://dev.to/gcachavilano/road-to-senior-13cp)
 <!-- BLOG-POST-LIST:END -->
