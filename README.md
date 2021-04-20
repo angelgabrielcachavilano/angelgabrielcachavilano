@@ -497,7 +497,7 @@
 </a>
 
 <a>
-    <img align="center"
+    <img align="center" display="flex"
     src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&hide=contribs&theme=react&show_icons=true&locale=en&line_height=29"
     alt="angelgabrielcachavilano"/> &nbsp
 </a>
