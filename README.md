@@ -13,16 +13,16 @@
     </p>
 -->
 <!-- welcome message -->
-<h2  align="center">Hi there <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> --> , I'm Angel Gabriel Cachavilano</h2>
+<h2 align="center" style="color:#57bdda">Hi there <!-- <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> --> , I'm Angel Gabriel Cachavilano</h2>
 
-<h3 align="center">React Developer</h3>
-
----
-
-<h4> I am currently learning  <strong>React.js</strong> and  <strong>Node.js.</strong></h4>
+<h3 align="center" style="color:#57bdda">React Developer</h3>
 
 ---
-<h3 align="left"> Connect with me: </h3>  
+
+* <h4  style="color:#57bdda"> I am currently learning  <strong>React.js</strong> and  <strong>Node.js.</strong></h4>
+
+---
+<h3 align="left" style="color:#57bdda"> Connect with me: </h3>  
   
 <!--
     <p align="left"> <a href="https://twitter.com/gcachavilano" target="_blank"> <img src="https://img.shields.io/twitter/follow/gcachavilano?logo=twitter&style=for-the-badge" alt="gcachavilano" /> </a> </p>
@@ -78,7 +78,7 @@
 </p>
 
 ---
-<h3 align="left">Languages ​​and tools:</h3>
+<h3 align="left" style="color:#57bdda">Languages ​​and tools:</h3>
 
 ---
 <p align="left">
@@ -489,7 +489,7 @@
 
 ---
 <!-- GitHub stats -->
-<h3 align="left">My Dev Statistics:</h3>
+<h3 align="left" style="color:#57bdda"">My Dev Statistics:</h3>
 <div width="100%">
     <a>
     <img align="center"
@@ -505,13 +505,13 @@
 </div>
 
 ---
-<h3 align="left" width="100%">Blog posts:</h3>
+<h3 align="left" width="100%" style="color:#57bdda">Blog posts:</h3>
 <!-- BLOG-POST-LIST:START -->
 - [Road to Senior](https://dev.to/gcachavilano/road-to-senior-13cp)
 <!-- BLOG-POST-LIST:END -->
 
 ---
-<h3 align="left">My followers</h3>
+<h3 align="left" style="color:#57bdda">My followers</h3>
 <!--START_SECTION:top-followers-->
 <table>
   <tr>
