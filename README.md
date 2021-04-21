@@ -488,21 +488,36 @@
 
 ---
 <!-- GitHub stats -->
-<h3 align="left" style="color:#57bdda"">My Dev Statistics:</h3>
+<h3 align="left" style="color:#57bdda">My Dev Statistics:</h3>
 <div width="100%">
-    <a>
+<a>
     <img align="center"
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&theme=react&show_icons=true&locale=en&layout=compact&langs_count=10&card_width=240"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=angelgabrielcachavilano&theme=react&show_icons=true&locale=en&layout=compact&langs_count=10&card_width=250"
     alt="angelgabrielcachavilano"/>
 </a>
 
 <a>
     <img align="center" display="flex"
     src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&hide=contribs&theme=react&show_icons=true&locale=en&line_height=29&count_private=true&show_owner=true"
-    alt="angelgabrielcachavilano"/> &nbsp
+    alt="angelgabrielcachavilano"/>
+</a>
+<div>
+
+---
+<!-- GitHub repositories -->
+<h3 align="left" style="color:#57bdda">My Repositories:</h3>
+</div width="100%">
+<a>
+    <img align="center" display="flex"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=angelgabrielcachavilano&repo=RESOURCES&theme=react&show_owner=true"
+    alt="angelgabrielcachavilano"/>
+</a>
+<a>
+    <img align="center" display="flex"
+    src="https://github-readme-stats.vercel.app/api/pin/?username=angelgabrielcachavilano&repo=CSS----tailwindCSS----clone-AirBNB&theme=react&show_owner=true"
+    alt="angelgabrielcachavilano"/>
 </a>
 </div>
-
 ---
 <h3 align="left" width="100%" style="color:#57bdda">Blog posts:</h3>
 <!-- BLOG-POST-LIST:START -->
