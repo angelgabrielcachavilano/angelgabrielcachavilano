@@ -518,10 +518,11 @@
     alt="angelgabrielcachavilano"/>
 </a>
 </div>
+
 ---
 <h3 align="left" width="100%" style="color:#57bdda">Blog posts:</h3>
 <!-- BLOG-POST-LIST:START -->
-- [Road to Senior](https://dev.to/gcachavilano/road-to-senior-13cp)
+
 <!-- BLOG-POST-LIST:END -->
 
 ---
