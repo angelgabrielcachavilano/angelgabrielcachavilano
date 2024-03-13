@@ -520,6 +520,7 @@
 </div>
 
 ---
+
 <h3 align="left" width="50%" style="color:#57bdda">Visitors:</h3>
 
 <div width="50%">
@@ -535,6 +536,7 @@
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
 <h3 align="left" style="color:#57bdda">My followers</h3>
 <!--START_SECTION:top-followers-->
 <table>
