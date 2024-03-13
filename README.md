@@ -22,7 +22,7 @@
 * <h4  style="color:#57bdda"> I am currently learning  <strong>React.js</strong> and  <strong>Node.js.</strong></h4>
 
 ---
-<h3 align="left" style="color:#57bdda"> Connect with me:</h3>  
+<h3 align="left" style="color:#57bdda"> Connect with me:</h3>
 <!--
     <p align="left"> <a href="https://twitter.com/gcachavilano" target="_blank"> <img src="https://img.shields.io/twitter/follow/gcachavilano?logo=twitter&style=for-the-badge" alt="gcachavilano" /> </a> </p>
 -->
@@ -81,7 +81,7 @@
 
 ---
 <p align="left">
-<!--    
+<!--
     <a
         href="https://developer.android.com"
         target="_blank">
@@ -118,7 +118,7 @@
             src="assets\iconangularjs.png"
             alt="angularjs" width="40" height="40"/>
     </a>
-<!--    
+<!--
     <a
         href="https://azure.microsoft.com/en-in/" target="_blank">
         <img
@@ -518,6 +518,10 @@
     alt="angelgabrielcachavilano"/>
 </a>
 </div>
+
+---
+<h3 align="left" width="100%" style="color:#57bdda">Visitors:</h3>
+/*![](https://komarev.com/ghpvc/?username=your-angelgabrielcachavilano&style=plastic&color=#06a130)*/
 
 ---
 <h3 align="left" width="100%" style="color:#57bdda">Blog posts:</h3>
