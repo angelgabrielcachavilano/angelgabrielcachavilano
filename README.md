@@ -521,11 +521,11 @@
 
 ---
 <h3 align="left" width="50%" style="color:#57bdda">Visitors:</h3>
-<h3 align="right" width="50%" style="color:#57bdda">
-    ![](https://komarev.com/ghpvc/?username=your-angelgabrielcachavilano&style=plastic&color=brightgreen)
-</h3>
+</div width="50%">
 
+![](https://komarev.com/ghpvc/?username=your-angelgabrielcachavilano&style=plastic&color=brightgreen)
 
+</div>
 ---
 <h3 align="left" width="100%" style="color:#57bdda">Blog posts:</h3>
 <!-- BLOG-POST-LIST:START -->
