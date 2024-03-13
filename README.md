@@ -501,12 +501,12 @@
     src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&hide=contribs&theme=react&show_icons=true&locale=en&line_height=29&count_private=true&show_owner=true"
     alt="angelgabrielcachavilano"/>
 </a>
-<div>
+<div  width="100%">
 
 ---
 <!-- GitHub repositories -->
 <h3 align="left" style="color:#57bdda">My Repositories:</h3>
-</div width="100%">
+</div>
 <a>
     <img align="center" display="flex"
     src="https://github-readme-stats.vercel.app/api/pin/?username=angelgabrielcachavilano&repo=RESOURCES&theme=react&show_owner=true"
@@ -521,12 +521,14 @@
 
 ---
 <h3 align="left" width="50%" style="color:#57bdda">Visitors:</h3>
-</div width="50%">
+
+<div width="50%">
 
 ![](https://komarev.com/ghpvc/?username=your-angelgabrielcachavilano&style=plastic&color=brightgreen)
 
 </div>
 ---
+
 <h3 align="left" width="100%" style="color:#57bdda">Blog posts:</h3>
 <!-- BLOG-POST-LIST:START -->
 
