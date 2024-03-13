@@ -521,7 +521,7 @@
 
 ---
 <h3 align="left" width="100%" style="color:#57bdda">Visitors:</h3>
-![](https://komarev.com/ghpvc/?username=your-angelgabrielcachavilano&style=plastic&color=#06a130)
+![](https://komarev.com/ghpvc/?username=your-angelgabrielcachavilano&style=plastic&color=brightgreen)
 
 ---
 <h3 align="left" width="100%" style="color:#57bdda">Blog posts:</h3>
