@@ -520,10 +520,9 @@
 </div>
 
 ---
-<<<<<<< HEAD
+
 <h3 align="left" width="100%" style="color:#57bdda">Visitors:</h3>
-/*![](https://komarev.com/ghpvc/?username=your-angelgabrielcachavilano&style=plastic&color=#06a130)*/
-=======
+<!-- ![](https://komarev.com/ghpvc/?username=your-angelgabrielcachavilano&style=plastic&color=#06a130)-->
 
 <h3 align="left" width="50%" style="color:#57bdda">Visitors:</h3>
 
@@ -532,7 +531,6 @@
 ![](https://komarev.com/ghpvc/?username=your-angelgabrielcachavilano&style=plastic&color=brightgreen)
 
 </div>
->>>>>>> 5eaff85074a7ca899bc9913b84eb4c6ecbec26c5
 
 ---
 
