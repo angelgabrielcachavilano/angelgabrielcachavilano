@@ -37,7 +37,7 @@
         href="https://discord.gg/QDW3cYPp"
         target="_blank">
         <img align="center"
-            src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord" height="40" width="40"/>
+            src="[https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg](https://www.vectorlogo.zone/logos/discord/discord-icon.svg)" alt="Discord" height="40" width="40"/>
     </a>
     <a
         href="https://twitter.com/gcachavilano"
