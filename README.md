@@ -37,7 +37,7 @@
         href="https://discord.gg/QDW3cYPp"
         target="_blank">
         <img align="center"
-            src="https://www.vectorlogo.zone/logos/discordapp/discordapp-tile.svg" alt="Discord" height="40" width="40"/>
+            src="assets\icondiscord.svg" alt="Discord" height="40" width="40"/>
     </a>
     <a
         href="https://twitter.com/gcachavilano"
@@ -501,12 +501,12 @@
     src="https://github-readme-stats.vercel.app/api?username=angelgabrielcachavilano&hide=contribs&theme=react&show_icons=true&locale=en&line_height=29&count_private=true&show_owner=true"
     alt="angelgabrielcachavilano"/>
 </a>
-<div>
+<div  width="100%">
 
 ---
 <!-- GitHub repositories -->
 <h3 align="left" style="color:#57bdda">My Repositories:</h3>
-</div width="100%">
+</div>
 <a>
     <img align="center" display="flex"
     src="https://github-readme-stats.vercel.app/api/pin/?username=angelgabrielcachavilano&repo=RESOURCES&theme=react&show_owner=true"
@@ -520,16 +520,29 @@
 </div>
 
 ---
+<<<<<<< HEAD
 <h3 align="left" width="100%" style="color:#57bdda">Visitors:</h3>
 /*![](https://komarev.com/ghpvc/?username=your-angelgabrielcachavilano&style=plastic&color=#06a130)*/
+=======
+
+<h3 align="left" width="50%" style="color:#57bdda">Visitors:</h3>
+
+<div width="50%">
+
+![](https://komarev.com/ghpvc/?username=your-angelgabrielcachavilano&style=plastic&color=brightgreen)
+
+</div>
+>>>>>>> 5eaff85074a7ca899bc9913b84eb4c6ecbec26c5
 
 ---
+
 <h3 align="left" width="100%" style="color:#57bdda">Blog posts:</h3>
 <!-- BLOG-POST-LIST:START -->
 
 <!-- BLOG-POST-LIST:END -->
 
 ---
+
 <h3 align="left" style="color:#57bdda">My followers</h3>
 <!--START_SECTION:top-followers-->
 <table>
